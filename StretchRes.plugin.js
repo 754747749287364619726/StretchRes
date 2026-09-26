@@ -1,6 +1,6 @@
 /**
  * @name StretchRes
- * @author Kami
+ * @author Kami (754747749287364619726)
  * @description Force stretch 4:3 and 1:1 streams to 16:9
  * @version 1.0.0
  */
